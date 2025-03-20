@@ -1,0 +1,1 @@
+# Initialize fitness_app package 
